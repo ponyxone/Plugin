@@ -1,0 +1,12 @@
+name: Plugin
+version: dev0.0
+author: Mute
+api-version: 1.14
+main: main.Core
+description: Test
+
+commands:
+ suicide:
+   usage: /suicide
+ everyone:
+   usage: xasasdadsdsa
